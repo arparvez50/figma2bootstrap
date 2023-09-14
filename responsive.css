@@ -1,0 +1,11 @@
+@media (max-width: 768px){
+      section {
+            padding: 0 50px;
+      }
+      .contact__section-box{
+            justify-content: flex-start;
+      }
+      .footer__left{
+            text-align: center;
+      }
+}
